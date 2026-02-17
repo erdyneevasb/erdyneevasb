@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @erdyneevasb
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @erdyneevasb. In this repo I will collect my college projects. 
 
 <!---
 erdyneevasb/erdyneevasb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
